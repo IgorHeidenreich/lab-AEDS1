@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1776421364 source:/home/igor/Downloads/Codigos/LabAEDS1Recursividade/asterisco1/main.c
+	<stdio.h>
+	<stdlib.h>
+

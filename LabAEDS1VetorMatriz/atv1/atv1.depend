@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1778235204 source:/home/igor/Downloads/Codigos/LabAEDS1/LabAEDS1VetorMatriz/atv1/main.c
+	<stdio.h>
+	<stdlib.h>
+

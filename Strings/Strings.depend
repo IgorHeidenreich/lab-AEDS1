@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1778841388 source:/home/igor/Downloads/Codigos/LabAEDS1/Strings/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
