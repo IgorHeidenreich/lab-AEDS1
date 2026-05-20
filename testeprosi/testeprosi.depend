@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1778674159 source:/home/igor/Downloads/Codigos/LabAEDS1/testeprosi/main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-
